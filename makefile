@@ -1,5 +1,4 @@
-a
-ZZZZZZl: BootLoader Disk.img
+all: BootLoader Disk.img
 
 BootLoader:
 	@echo
